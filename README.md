@@ -1,8 +1,12 @@
 # hub12 merge pr 123 final
 qwert
 final target
-<<<<<<< HEAD
+
 target1
-=======
+
+target 123445
+
+
 taget 123445
->>>>>>> 690cf6a42dd06457c8572ea041a8ebfeecff5426
+rtc 12
+
